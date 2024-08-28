@@ -1,0 +1,671 @@
+{
+    "CEE_TENANT_ID": "d30138e49a294438b6fd772a56894ec9",
+    "VDC_ID": "02e9e715-4602-4865-a9f2-2eb2d450f090",
+    "VDC_NAME": "vdc_828",
+    "IMAGE_AUTH_URL": "https://cloud13a.athtem.eei.ericsson.se:13292/v2",
+    "EXTERNAL_NET_ID": "79c5bf65-ea4a-4c18-a321-2e89f146b568",
+    "VNF_MANAGER_ID": "69382502-d567-45db-9b2c-8c2f4d8c9abd",
+    "VNF_MANAGER_NAME": "VNFM_LCM_Info_Authentication_50",
+    "DYNAMIC_VNF_MANAGER_ID": "9e78dc2d-3219-4990-9747-df72365eda13",
+    "DYNAMIC_VNF_MANAGER_NAME": "VNFM_LCM_Info_Authentication_75",
+    "ONBOARD_PACKAGE": "vnflaf_etsi_tosca_9mb_valid_2022-08-11_17-46-20",
+    "ONBOARD_EPG_PACKAGE": "VNFM_EPG_2022-11-12_01-52-38",
+    "EPG_PACKAGE_ID": "04da372b-71ff-4390-ad4e-fec1268ccc09",
+    "ONBOARD_MME_PACKAGE": "VNFM_MME_2022-03-03_23-29-58",
+    "MME_PACKAGE_ID": "baaa35dd-d08c-4ed6-b80d-d8041346aec7",
+    "PROJECT_ID": "b015b354-a5eb-4ed5-b29a-6ad23b4e4e22",
+    "VIMZONE_ID": "b0731592-1ec6-4e67-91db-cbd0e4b0fdd8",
+    "CNF_VNFM_ID": "f34aa6f5-57a2-4d6a-8507-605e95849623",
+    "SUBSYSTEM_NAME": "SOL005_EOCM_306",
+    "VM_VNFM_MANAGER_ID": "0824ca60-c351-438e-867e-216c5311fe60",
+    "VM_VNMF_MANAGER_NAME": "eo-deploy_2022-11-12_01-33-33",
+    "VNF_IDENTIFIER_ID": "5dd33381-3db5-483d-bc32-9de2a7529ce9",
+    "CCRC_RESOURCE_ID": "fadebed5-34d5-4d14-b478-8505a44be214",
+    "SYNC_PROJ_VDC_ID": "aab0177c-2348-4003-8b81-4904ec173a28",
+    "SYNC_PROJ_VDC_NAME": "ORCH_Staging_C13A_Dynamic_vim_vdc",
+    "Tetsing": "123",
+    "Testing7": "tes234",
+    "ONBOARD_RESOURCE_VFC_ID": "77f08832-5df0-4c1d-b09f-7876696ae61b",
+    "CERTIFY_RESOURCE_VFC_ID": "c6ce6c96-1d70-43b9-b6ca-ece6aefb170e",
+    "ONBOARD_NETWORK_SERVICE_VFC_ID": "8b1a9a20-6ff5-48c6-9df2-85847a15ffe7",
+    "CERTIFY_NETWORK_SERVICE_VFC_ID": "86d3204d-58d4-48b7-819f-9e0a93b9902c",
+    "ONBOARD_NETWORK_FUNCTION_VFC_ID": "4ed04140-73d5-4c40-b7cf-c0774d24d7b8",
+    "CERTIFY_NETWORK_FUNCTION_VFC_ID": "375c5b41-8348-454a-9de5-ff3bf270a59a",
+    "ONBOARD_EPG_VFC_ID": "1fdaedcd-0a57-4a04-9786-5a40cbbab23b",
+    "CERTIFY_EPG_VFC_ID": "ee6ce85a-c284-4697-bc5c-bac25ed211b5",
+    "UDS_VF_NAME": "EpgVF29820220203",
+    "VF_UNIQUE_ID": "13ba288f-0372-4e7b-9b22-ae27f0d16e31",
+    "CERTIFY_VF_ID": "b7418c62-0756-493f-a8b6-62fa35bdb77d",
+    "UNIQUE_ID_FROM_ADDING_NS_TO_COMPOSITION": "13ba288f-0372-4e7b-9b22-ae27f0d16e31.86d3204d-58d4-48b7-819f-9e0a93b9902c.so_networkservice",
+    "UNIQUE_ID_FROM_ADDING_EPG_TO_COMPOSITION": "13ba288f-0372-4e7b-9b22-ae27f0d16e31.ee6ce85a-c284-4697-bc5c-bac25ed211b5.so_epg",
+    "UDS_CAPABILITIES_UNIQUE_ID": "capability.580621bc-4310-4cc3-9091-2a9001e2ea6a.feature",
+    "UDS_REQUIREMENTS_UNIQUE_ID": "580621bc-4310-4cc3-9091-2a9001e2ea6a.dependency",
+    "UDS_SERVICE_UNIQUE_ID": "099bee93-10f5-4ab7-8a4f-cc042079cdc7",
+    "CERTIFY_SERVICE_ID": "<id>",
+    "NS_DESCRIPTOR_ID": "d3bf0bca-9c28-44c5-8d43-fb770c64536d",
+    "CERTIFIED_SERVICE_UNIQUE_ID": "",
+    "ONBOARD_EPG_TOSCA_PACKAGE": "Tosca_EPG_VNFD_2022-11-12_01-44-41",
+    "GEOSITE_VFC_DATA": {
+        "name": "geographicSite",
+        "uniqueId": "a8eaaf2d-bf8d-4b1a-b7af-dffd3870e3ab",
+        "uuid": "64210ea5-3703-4938-93cc-2361dbc55d5b",
+        "description": "geographicSite."
+    },
+    "SUBSYSTEM_VFC_DATA": {
+        "name": "subsystemRef",
+        "uniqueId": "19080190-498b-4145-a9de-6a21f459edc7",
+        "uuid": "23ac278d-c625-4099-a951-4eaaad50a665",
+        "description": "subsystemRef."
+    },
+    "NS_VFC_DATA": {
+        "name": "virtNetworkServ",
+        "uniqueId": "81502f61-7fe1-4599-91e1-0c3016f8cb59",
+        "uuid": "9efa8a59-127b-4a16-b560-f402f946e211",
+        "description": "virtNetworkServ."
+    },
+    "VIMZONE0_VFC_DATA": {
+        "name": "vimZone",
+        "uniqueId": "6be3492f-ea2e-4d14-a5cc-f03c26312aca",
+        "uuid": "32a76782-35f9-4801-bfc1-ab44ab9d8a4c",
+        "description": "vimZone."
+    },
+    "EPG_VFC_DATA": {
+        "name": "vnf",
+        "uniqueId": "eb2b117a-3479-46be-95a7-a7a1e9801215",
+        "uuid": "b6d2ae94-5d1b-4e44-a926-86bf1652c222",
+        "description": "vnf."
+    },
+    "NSCHECKED_OUT_VFC_ID": "3ad21139-bdcf-45c0-981e-b91c9a9bdb7b",
+    "UDS_SERVICE_UNIQUE_NAME": "EPG_Service80620221110",
+    "ADD_VFC_INPUT_DATA": {
+        "nsdId": {
+            "uniqueId": "099bee93-10f5-4ab7-8a4f-cc042079cdc7.nsdId",
+            "parentUniqueId": "099bee93-10f5-4ab7-8a4f-cc042079cdc7",
+            "ownerId": "099bee93-10f5-4ab7-8a4f-cc042079cdc7"
+        },
+        "vdcName": {
+            "uniqueId": "099bee93-10f5-4ab7-8a4f-cc042079cdc7.vdcName",
+            "parentUniqueId": "099bee93-10f5-4ab7-8a4f-cc042079cdc7",
+            "ownerId": "099bee93-10f5-4ab7-8a4f-cc042079cdc7"
+        },
+        "connectionName": {
+            "uniqueId": "099bee93-10f5-4ab7-8a4f-cc042079cdc7.connectionName",
+            "parentUniqueId": "099bee93-10f5-4ab7-8a4f-cc042079cdc7",
+            "ownerId": "099bee93-10f5-4ab7-8a4f-cc042079cdc7"
+        },
+        "subnetId": {
+            "uniqueId": "099bee93-10f5-4ab7-8a4f-cc042079cdc7.subnetId",
+            "parentUniqueId": "099bee93-10f5-4ab7-8a4f-cc042079cdc7",
+            "ownerId": "099bee93-10f5-4ab7-8a4f-cc042079cdc7"
+        },
+        "targetVdc": {
+            "uniqueId": "099bee93-10f5-4ab7-8a4f-cc042079cdc7.targetVdc",
+            "parentUniqueId": "099bee93-10f5-4ab7-8a4f-cc042079cdc7",
+            "ownerId": "099bee93-10f5-4ab7-8a4f-cc042079cdc7"
+        },
+        "vnfmId": {
+            "uniqueId": "099bee93-10f5-4ab7-8a4f-cc042079cdc7.vnfmId",
+            "parentUniqueId": "099bee93-10f5-4ab7-8a4f-cc042079cdc7",
+            "ownerId": "099bee93-10f5-4ab7-8a4f-cc042079cdc7"
+        },
+        "connectedVn": {
+            "uniqueId": "099bee93-10f5-4ab7-8a4f-cc042079cdc7.connectedVn",
+            "parentUniqueId": "099bee93-10f5-4ab7-8a4f-cc042079cdc7",
+            "ownerId": "099bee93-10f5-4ab7-8a4f-cc042079cdc7"
+        }
+    },
+    "GEOSITE_VFC_INPUT_DICT": {
+        "vfc_name": "GEOSITE",
+        "ownerId": "099bee93-10f5-4ab7-8a4f-cc042079cdc7.a8eaaf2d-bf8d-4b1a-b7af-dffd3870e3ab.geosite",
+        "ownerName": "GEOSITE",
+        "source": "a8eaaf2d-bf8d-4b1a-b7af-dffd3870e3ab",
+        "componentVersion": "2.0",
+        "version": "",
+        "componentUid": "a8eaaf2d-bf8d-4b1a-b7af-dffd3870e3ab",
+        "invariantName": "geosite",
+        "componentName": "geographicSite",
+        "normalizedName": "geosite",
+        "customizationUUID": "88d591e6-f2df-484c-a978-ce27049d5510",
+        "attributes": [
+            {
+                "parentUniqueId": "8c9066a7-6734-4ce0-ac9c-5cd712812ea9",
+                "definition": false,
+                "name": "tosca_name",
+                "type": "string",
+                "uniqueId": "attribute.ff2c9d28-7caf-4ee1-a5a5-70a120b44129.tosca_name",
+                "ownerId": "8c9066a7-6734-4ce0-ac9c-5cd712812ea9",
+                "getOutputAttribute": false,
+                "empty": false
+            },
+            {
+                "parentUniqueId": "8c9066a7-6734-4ce0-ac9c-5cd712812ea9",
+                "definition": false,
+                "name": "state",
+                "type": "string",
+                "uniqueId": "attribute.ff2c9d28-7caf-4ee1-a5a5-70a120b44129.state",
+                "ownerId": "8c9066a7-6734-4ce0-ac9c-5cd712812ea9",
+                "getOutputAttribute": false,
+                "empty": false
+            },
+            {
+                "parentUniqueId": "8c9066a7-6734-4ce0-ac9c-5cd712812ea9",
+                "definition": false,
+                "name": "tosca_id",
+                "type": "string",
+                "uniqueId": "attribute.ff2c9d28-7caf-4ee1-a5a5-70a120b44129.tosca_id",
+                "ownerId": "8c9066a7-6734-4ce0-ac9c-5cd712812ea9",
+                "getOutputAttribute": false,
+                "empty": false
+            }
+        ],
+        "capability_uid": "capability.ff2c9d28-7caf-4ee1-a5a5-70a120b44129.feature",
+        "revisionNumber": {
+            "type": "integer",
+            "parentUniqueId": "099bee93-10f5-4ab7-8a4f-cc042079cdc7.a8eaaf2d-bf8d-4b1a-b7af-dffd3870e3ab.geosite",
+            "uniqueId": "80994a4e-db58-426d-ac24-8452562b06ea.revisionNumber",
+            "schemaType": ""
+        },
+        "isArchived": {
+            "type": "boolean",
+            "parentUniqueId": "75e20bcc-27a6-4044-b9e2-6a8c35785f5f",
+            "uniqueId": "fabb1400-954c-4eea-8a91-3b91e48bb804.isArchived",
+            "schemaType": ""
+        },
+        "dueDate": {
+            "type": "timestamp",
+            "parentUniqueId": "75e20bcc-27a6-4044-b9e2-6a8c35785f5f",
+            "uniqueId": "fabb1400-954c-4eea-8a91-3b91e48bb804.dueDate",
+            "schemaType": ""
+        },
+        "scheduledDate": {
+            "type": "timestamp",
+            "parentUniqueId": "75e20bcc-27a6-4044-b9e2-6a8c35785f5f",
+            "uniqueId": "fabb1400-954c-4eea-8a91-3b91e48bb804.scheduledDate",
+            "schemaType": ""
+        },
+        "orderedDate": {
+            "type": "timestamp",
+            "parentUniqueId": "75e20bcc-27a6-4044-b9e2-6a8c35785f5f",
+            "uniqueId": "fabb1400-954c-4eea-8a91-3b91e48bb804.orderedDate",
+            "schemaType": ""
+        },
+        "type": {
+            "type": "string",
+            "parentUniqueId": "099bee93-10f5-4ab7-8a4f-cc042079cdc7.a8eaaf2d-bf8d-4b1a-b7af-dffd3870e3ab.geosite",
+            "uniqueId": "80994a4e-db58-426d-ac24-8452562b06ea.type",
+            "schemaType": ""
+        },
+        "createdOn": {
+            "type": "timestamp",
+            "parentUniqueId": "75e20bcc-27a6-4044-b9e2-6a8c35785f5f",
+            "uniqueId": "fabb1400-954c-4eea-8a91-3b91e48bb804.createdOn",
+            "schemaType": ""
+        },
+        "lockedBy": {
+            "type": "string",
+            "parentUniqueId": "099bee93-10f5-4ab7-8a4f-cc042079cdc7.a8eaaf2d-bf8d-4b1a-b7af-dffd3870e3ab.geosite",
+            "uniqueId": "80994a4e-db58-426d-ac24-8452562b06ea.lockedBy",
+            "schemaType": ""
+        },
+        "decommissionDate": {
+            "type": "timestamp",
+            "parentUniqueId": "75e20bcc-27a6-4044-b9e2-6a8c35785f5f",
+            "uniqueId": "fabb1400-954c-4eea-8a91-3b91e48bb804.decommissionDate",
+            "schemaType": ""
+        },
+        "installedDate": {
+            "type": "timestamp",
+            "parentUniqueId": "75e20bcc-27a6-4044-b9e2-6a8c35785f5f",
+            "uniqueId": "fabb1400-954c-4eea-8a91-3b91e48bb804.installedDate",
+            "schemaType": ""
+        },
+        "objectInstId": {
+            "type": "integer",
+            "parentUniqueId": "75e20bcc-27a6-4044-b9e2-6a8c35785f5f",
+            "uniqueId": "fabb1400-954c-4eea-8a91-3b91e48bb804.objectInstId",
+            "schemaType": ""
+        },
+        "inServiceDate": {
+            "type": "timestamp",
+            "parentUniqueId": "75e20bcc-27a6-4044-b9e2-6a8c35785f5f",
+            "uniqueId": "fabb1400-954c-4eea-8a91-3b91e48bb804.inServiceDate",
+            "schemaType": ""
+        },
+        "lockedOn": {
+            "type": "timestamp",
+            "parentUniqueId": "099bee93-10f5-4ab7-8a4f-cc042079cdc7.a8eaaf2d-bf8d-4b1a-b7af-dffd3870e3ab.geosite",
+            "uniqueId": "80994a4e-db58-426d-ac24-8452562b06ea.lockedOn",
+            "schemaType": ""
+        },
+        "floor": {
+            "type": "string",
+            "parentUniqueId": "099bee93-10f5-4ab7-8a4f-cc042079cdc7.a8eaaf2d-bf8d-4b1a-b7af-dffd3870e3ab.geosite",
+            "uniqueId": "80994a4e-db58-426d-ac24-8452562b06ea.floor",
+            "schemaType": ""
+        },
+        "archivedBy": {
+            "type": "string",
+            "parentUniqueId": "75e20bcc-27a6-4044-b9e2-6a8c35785f5f",
+            "uniqueId": "fabb1400-954c-4eea-8a91-3b91e48bb804.archivedBy",
+            "schemaType": ""
+        },
+        "comments": {
+            "type": "string",
+            "parentUniqueId": "75e20bcc-27a6-4044-b9e2-6a8c35785f5f",
+            "uniqueId": "fabb1400-954c-4eea-8a91-3b91e48bb804.comments",
+            "schemaType": ""
+        },
+        "archivedOn": {
+            "type": "timestamp",
+            "parentUniqueId": "75e20bcc-27a6-4044-b9e2-6a8c35785f5f",
+            "uniqueId": "fabb1400-954c-4eea-8a91-3b91e48bb804.archivedOn",
+            "schemaType": ""
+        },
+        "lastModifiedBy": {
+            "type": "string",
+            "parentUniqueId": "75e20bcc-27a6-4044-b9e2-6a8c35785f5f",
+            "uniqueId": "fabb1400-954c-4eea-8a91-3b91e48bb804.lastModifiedBy",
+            "schemaType": ""
+        },
+        "restrictions": {
+            "type": "string",
+            "parentUniqueId": "099bee93-10f5-4ab7-8a4f-cc042079cdc7.a8eaaf2d-bf8d-4b1a-b7af-dffd3870e3ab.geosite",
+            "uniqueId": "80994a4e-db58-426d-ac24-8452562b06ea.restrictions",
+            "schemaType": ""
+        },
+        "externalId": {
+            "type": "string",
+            "parentUniqueId": "75e20bcc-27a6-4044-b9e2-6a8c35785f5f",
+            "uniqueId": "fabb1400-954c-4eea-8a91-3b91e48bb804.externalId",
+            "schemaType": ""
+        },
+        "versionNumber": {
+            "type": "integer",
+            "parentUniqueId": "099bee93-10f5-4ab7-8a4f-cc042079cdc7.a8eaaf2d-bf8d-4b1a-b7af-dffd3870e3ab.geosite",
+            "uniqueId": "80994a4e-db58-426d-ac24-8452562b06ea.versionNumber",
+            "schemaType": ""
+        },
+        "room": {
+            "type": "string",
+            "parentUniqueId": "099bee93-10f5-4ab7-8a4f-cc042079cdc7.a8eaaf2d-bf8d-4b1a-b7af-dffd3870e3ab.geosite",
+            "uniqueId": "80994a4e-db58-426d-ac24-8452562b06ea.room",
+            "schemaType": ""
+        },
+        "lastModifiedOn": {
+            "type": "timestamp",
+            "parentUniqueId": "75e20bcc-27a6-4044-b9e2-6a8c35785f5f",
+            "uniqueId": "fabb1400-954c-4eea-8a91-3b91e48bb804.lastModifiedOn",
+            "schemaType": ""
+        },
+        "createdBy": {
+            "type": "string",
+            "parentUniqueId": "75e20bcc-27a6-4044-b9e2-6a8c35785f5f",
+            "uniqueId": "fabb1400-954c-4eea-8a91-3b91e48bb804.createdBy",
+            "schemaType": ""
+        },
+        "name": {
+            "type": "string",
+            "parentUniqueId": "75e20bcc-27a6-4044-b9e2-6a8c35785f5f",
+            "uniqueId": "fabb1400-954c-4eea-8a91-3b91e48bb804.name",
+            "schemaType": ""
+        },
+        "modifyDomainGroup": {
+            "type": "integer",
+            "parentUniqueId": "75e20bcc-27a6-4044-b9e2-6a8c35785f5f",
+            "uniqueId": "fabb1400-954c-4eea-8a91-3b91e48bb804.modifyDomainGroup",
+            "schemaType": ""
+        },
+        "lockOwner": {
+            "type": "string",
+            "parentUniqueId": "099bee93-10f5-4ab7-8a4f-cc042079cdc7.a8eaaf2d-bf8d-4b1a-b7af-dffd3870e3ab.geosite",
+            "uniqueId": "80994a4e-db58-426d-ac24-8452562b06ea.lockOwner",
+            "schemaType": ""
+        },
+        "siteId": {
+            "type": "string",
+            "parentUniqueId": "099bee93-10f5-4ab7-8a4f-cc042079cdc7.a8eaaf2d-bf8d-4b1a-b7af-dffd3870e3ab.geosite",
+            "uniqueId": "80994a4e-db58-426d-ac24-8452562b06ea.siteId",
+            "schemaType": ""
+        },
+        "queryDomainGroup": {
+            "type": "integer",
+            "parentUniqueId": "75e20bcc-27a6-4044-b9e2-6a8c35785f5f",
+            "uniqueId": "fabb1400-954c-4eea-8a91-3b91e48bb804.queryDomainGroup",
+            "schemaType": ""
+        },
+        "contacts": {
+            "type": "string",
+            "parentUniqueId": "099bee93-10f5-4ab7-8a4f-cc042079cdc7.a8eaaf2d-bf8d-4b1a-b7af-dffd3870e3ab.geosite",
+            "uniqueId": "80994a4e-db58-426d-ac24-8452562b06ea.contacts",
+            "schemaType": ""
+        },
+        "status": {
+            "type": "string",
+            "parentUniqueId": "75e20bcc-27a6-4044-b9e2-6a8c35785f5f",
+            "uniqueId": "fabb1400-954c-4eea-8a91-3b91e48bb804.status",
+            "schemaType": ""
+        },
+        "resourceType": {
+            "type": "string",
+            "parentUniqueId": "1ca2754f-a23c-48c1-921f-61329c7f10fd",
+            "uniqueId": "68a3664e-cc79-4ad9-b31f-f7f504d6545b.resourceType",
+            "schemaType": ""
+        },
+        "requirements": {
+            "designDependency": {
+                "name": "designDependency",
+                "source": "a8eaaf2d-bf8d-4b1a-b7af-dffd3870e3ab",
+                "uniqueId": "68a3664e-cc79-4ad9-b31f-f7f504d6545b.designDependency",
+                "capability": "tosca.capabilities.Node",
+                "ownerId": "099bee93-10f5-4ab7-8a4f-cc042079cdc7.a8eaaf2d-bf8d-4b1a-b7af-dffd3870e3ab.geosite",
+                "ownerName": "GEOSITE"
+            },
+            "managedObjectIpRanges": {
+                "name": "managedObjectIpRanges",
+                "source": "a8eaaf2d-bf8d-4b1a-b7af-dffd3870e3ab",
+                "uniqueId": "3aa0ee01-d723-4921-9e52-4494f7c6922f.managedObjectIpRanges",
+                "capability": "tosca.capabilities.Node",
+                "ownerId": "099bee93-10f5-4ab7-8a4f-cc042079cdc7.a8eaaf2d-bf8d-4b1a-b7af-dffd3870e3ab.geosite",
+                "ownerName": "GEOSITE"
+            },
+            "childSites": {
+                "name": "childSites",
+                "source": "a8eaaf2d-bf8d-4b1a-b7af-dffd3870e3ab",
+                "uniqueId": "80994a4e-db58-426d-ac24-8452562b06ea.childSites",
+                "capability": "tosca.capabilities.Node",
+                "ownerId": "099bee93-10f5-4ab7-8a4f-cc042079cdc7.a8eaaf2d-bf8d-4b1a-b7af-dffd3870e3ab.geosite",
+                "ownerName": "GEOSITE"
+            },
+            "locatedAt": {
+                "name": "locatedAt",
+                "source": "a8eaaf2d-bf8d-4b1a-b7af-dffd3870e3ab",
+                "uniqueId": "80994a4e-db58-426d-ac24-8452562b06ea.locatedAt",
+                "capability": "tosca.capabilities.Node",
+                "ownerId": "099bee93-10f5-4ab7-8a4f-cc042079cdc7.a8eaaf2d-bf8d-4b1a-b7af-dffd3870e3ab.geosite",
+                "ownerName": "GEOSITE"
+            },
+            "rfCells": {
+                "name": "rfCells",
+                "source": "a8eaaf2d-bf8d-4b1a-b7af-dffd3870e3ab",
+                "uniqueId": "80994a4e-db58-426d-ac24-8452562b06ea.rfCells",
+                "capability": "tosca.capabilities.Node",
+                "ownerId": "099bee93-10f5-4ab7-8a4f-cc042079cdc7.a8eaaf2d-bf8d-4b1a-b7af-dffd3870e3ab.geosite",
+                "ownerName": "GEOSITE"
+            },
+            "project": {
+                "name": "project",
+                "source": "a8eaaf2d-bf8d-4b1a-b7af-dffd3870e3ab",
+                "uniqueId": "3aa0ee01-d723-4921-9e52-4494f7c6922f.project",
+                "capability": "tosca.capabilities.Node",
+                "ownerId": "099bee93-10f5-4ab7-8a4f-cc042079cdc7.a8eaaf2d-bf8d-4b1a-b7af-dffd3870e3ab.geosite",
+                "ownerName": "GEOSITE"
+            },
+            "availabilityZones": {
+                "name": "availabilityZones",
+                "source": "a8eaaf2d-bf8d-4b1a-b7af-dffd3870e3ab",
+                "uniqueId": "80994a4e-db58-426d-ac24-8452562b06ea.availabilityZones",
+                "capability": "tosca.capabilities.Node",
+                "ownerId": "099bee93-10f5-4ab7-8a4f-cc042079cdc7.a8eaaf2d-bf8d-4b1a-b7af-dffd3870e3ab.geosite",
+                "ownerName": "GEOSITE"
+            },
+            "l3Adjacencies": {
+                "name": "l3Adjacencies",
+                "source": "a8eaaf2d-bf8d-4b1a-b7af-dffd3870e3ab",
+                "uniqueId": "3aa0ee01-d723-4921-9e52-4494f7c6922f.l3Adjacencies",
+                "capability": "tosca.capabilities.Node",
+                "ownerId": "099bee93-10f5-4ab7-8a4f-cc042079cdc7.a8eaaf2d-bf8d-4b1a-b7af-dffd3870e3ab.geosite",
+                "ownerName": "GEOSITE"
+            },
+            "l3Nodes": {
+                "name": "l3Nodes",
+                "source": "a8eaaf2d-bf8d-4b1a-b7af-dffd3870e3ab",
+                "uniqueId": "80994a4e-db58-426d-ac24-8452562b06ea.l3Nodes",
+                "capability": "tosca.capabilities.Node",
+                "ownerId": "099bee93-10f5-4ab7-8a4f-cc042079cdc7.a8eaaf2d-bf8d-4b1a-b7af-dffd3870e3ab.geosite",
+                "ownerName": "GEOSITE"
+            },
+            "attachment": {
+                "name": "attachment",
+                "source": "a8eaaf2d-bf8d-4b1a-b7af-dffd3870e3ab",
+                "uniqueId": "80994a4e-db58-426d-ac24-8452562b06ea.attachment",
+                "capability": "tosca.capabilities.Node",
+                "ownerId": "099bee93-10f5-4ab7-8a4f-cc042079cdc7.a8eaaf2d-bf8d-4b1a-b7af-dffd3870e3ab.geosite",
+                "ownerName": "GEOSITE"
+            },
+            "supportingNetSliceSubnets": {
+                "name": "supportingNetSliceSubnets",
+                "source": "a8eaaf2d-bf8d-4b1a-b7af-dffd3870e3ab",
+                "uniqueId": "3aa0ee01-d723-4921-9e52-4494f7c6922f.supportingNetSliceSubnets",
+                "capability": "tosca.capabilities.Node",
+                "ownerId": "099bee93-10f5-4ab7-8a4f-cc042079cdc7.a8eaaf2d-bf8d-4b1a-b7af-dffd3870e3ab.geosite",
+                "ownerName": "GEOSITE"
+            },
+            "numberRanges": {
+                "name": "numberRanges",
+                "source": "a8eaaf2d-bf8d-4b1a-b7af-dffd3870e3ab",
+                "uniqueId": "3aa0ee01-d723-4921-9e52-4494f7c6922f.numberRanges",
+                "capability": "tosca.capabilities.Node",
+                "ownerId": "099bee93-10f5-4ab7-8a4f-cc042079cdc7.a8eaaf2d-bf8d-4b1a-b7af-dffd3870e3ab.geosite",
+                "ownerName": "GEOSITE"
+            },
+            "relatedParties": {
+                "name": "relatedParties",
+                "source": "a8eaaf2d-bf8d-4b1a-b7af-dffd3870e3ab",
+                "uniqueId": "80994a4e-db58-426d-ac24-8452562b06ea.relatedParties",
+                "capability": "tosca.capabilities.Node",
+                "ownerId": "099bee93-10f5-4ab7-8a4f-cc042079cdc7.a8eaaf2d-bf8d-4b1a-b7af-dffd3870e3ab.geosite",
+                "ownerName": "GEOSITE"
+            },
+            "subsystemReferences": {
+                "name": "subsystemReferences",
+                "source": "a8eaaf2d-bf8d-4b1a-b7af-dffd3870e3ab",
+                "uniqueId": "3aa0ee01-d723-4921-9e52-4494f7c6922f.subsystemReferences",
+                "capability": "tosca.capabilities.Node",
+                "ownerId": "099bee93-10f5-4ab7-8a4f-cc042079cdc7.a8eaaf2d-bf8d-4b1a-b7af-dffd3870e3ab.geosite",
+                "ownerName": "GEOSITE"
+            },
+            "wirelessNFConnections": {
+                "name": "wirelessNFConnections",
+                "source": "a8eaaf2d-bf8d-4b1a-b7af-dffd3870e3ab",
+                "uniqueId": "3aa0ee01-d723-4921-9e52-4494f7c6922f.wirelessNFConnections",
+                "capability": "tosca.capabilities.Node",
+                "ownerId": "099bee93-10f5-4ab7-8a4f-cc042079cdc7.a8eaaf2d-bf8d-4b1a-b7af-dffd3870e3ab.geosite",
+                "ownerName": "GEOSITE"
+            },
+            "networkDomains": {
+                "name": "networkDomains",
+                "source": "a8eaaf2d-bf8d-4b1a-b7af-dffd3870e3ab",
+                "uniqueId": "fabb1400-954c-4eea-8a91-3b91e48bb804.networkDomains",
+                "capability": "tosca.capabilities.Node",
+                "ownerId": "099bee93-10f5-4ab7-8a4f-cc042079cdc7.a8eaaf2d-bf8d-4b1a-b7af-dffd3870e3ab.geosite",
+                "ownerName": "GEOSITE"
+            },
+            "virtualNetworkFunctionComponents": {
+                "name": "virtualNetworkFunctionComponents",
+                "source": "a8eaaf2d-bf8d-4b1a-b7af-dffd3870e3ab",
+                "uniqueId": "3aa0ee01-d723-4921-9e52-4494f7c6922f.virtualNetworkFunctionComponents",
+                "capability": "tosca.capabilities.Node",
+                "ownerId": "099bee93-10f5-4ab7-8a4f-cc042079cdc7.a8eaaf2d-bf8d-4b1a-b7af-dffd3870e3ab.geosite",
+                "ownerName": "GEOSITE"
+            },
+            "assignedNumbers": {
+                "name": "assignedNumbers",
+                "source": "a8eaaf2d-bf8d-4b1a-b7af-dffd3870e3ab",
+                "uniqueId": "3aa0ee01-d723-4921-9e52-4494f7c6922f.assignedNumbers",
+                "capability": "tosca.capabilities.Node",
+                "ownerId": "099bee93-10f5-4ab7-8a4f-cc042079cdc7.a8eaaf2d-bf8d-4b1a-b7af-dffd3870e3ab.geosite",
+                "ownerName": "GEOSITE"
+            },
+            "wirelessNetFunctions": {
+                "name": "wirelessNetFunctions",
+                "source": "a8eaaf2d-bf8d-4b1a-b7af-dffd3870e3ab",
+                "uniqueId": "80994a4e-db58-426d-ac24-8452562b06ea.wirelessNetFunctions",
+                "capability": "tosca.capabilities.Node",
+                "ownerId": "099bee93-10f5-4ab7-8a4f-cc042079cdc7.a8eaaf2d-bf8d-4b1a-b7af-dffd3870e3ab.geosite",
+                "ownerName": "GEOSITE"
+            },
+            "supportedNetworkSlices": {
+                "name": "supportedNetworkSlices",
+                "source": "a8eaaf2d-bf8d-4b1a-b7af-dffd3870e3ab",
+                "uniqueId": "3aa0ee01-d723-4921-9e52-4494f7c6922f.supportedNetworkSlices",
+                "capability": "tosca.capabilities.Node",
+                "ownerId": "099bee93-10f5-4ab7-8a4f-cc042079cdc7.a8eaaf2d-bf8d-4b1a-b7af-dffd3870e3ab.geosite",
+                "ownerName": "GEOSITE"
+            },
+            "address": {
+                "name": "address",
+                "source": "a8eaaf2d-bf8d-4b1a-b7af-dffd3870e3ab",
+                "uniqueId": "80994a4e-db58-426d-ac24-8452562b06ea.address",
+                "capability": "tosca.capabilities.Node",
+                "ownerId": "099bee93-10f5-4ab7-8a4f-cc042079cdc7.a8eaaf2d-bf8d-4b1a-b7af-dffd3870e3ab.geosite",
+                "ownerName": "GEOSITE"
+            },
+            "controlledLocations": {
+                "name": "controlledLocations",
+                "source": "a8eaaf2d-bf8d-4b1a-b7af-dffd3870e3ab",
+                "uniqueId": "80994a4e-db58-426d-ac24-8452562b06ea.controlledLocations",
+                "capability": "tosca.capabilities.Node",
+                "ownerId": "099bee93-10f5-4ab7-8a4f-cc042079cdc7.a8eaaf2d-bf8d-4b1a-b7af-dffd3870e3ab.geosite",
+                "ownerName": "GEOSITE"
+            },
+            "dependency": {
+                "name": "dependency",
+                "source": "a8eaaf2d-bf8d-4b1a-b7af-dffd3870e3ab",
+                "uniqueId": "ff2c9d28-7caf-4ee1-a5a5-70a120b44129.dependency",
+                "capability": "tosca.capabilities.Node",
+                "ownerId": "099bee93-10f5-4ab7-8a4f-cc042079cdc7.a8eaaf2d-bf8d-4b1a-b7af-dffd3870e3ab.geosite",
+                "ownerName": "GEOSITE"
+            },
+            "replicationRequest": {
+                "name": "replicationRequest",
+                "source": "a8eaaf2d-bf8d-4b1a-b7af-dffd3870e3ab",
+                "uniqueId": "3aa0ee01-d723-4921-9e52-4494f7c6922f.replicationRequest",
+                "capability": "tosca.capabilities.Node",
+                "ownerId": "099bee93-10f5-4ab7-8a4f-cc042079cdc7.a8eaaf2d-bf8d-4b1a-b7af-dffd3870e3ab.geosite",
+                "ownerName": "GEOSITE"
+            },
+            "entityCollections": {
+                "name": "entityCollections",
+                "source": "a8eaaf2d-bf8d-4b1a-b7af-dffd3870e3ab",
+                "uniqueId": "80994a4e-db58-426d-ac24-8452562b06ea.entityCollections",
+                "capability": "tosca.capabilities.Node",
+                "ownerId": "099bee93-10f5-4ab7-8a4f-cc042079cdc7.a8eaaf2d-bf8d-4b1a-b7af-dffd3870e3ab.geosite",
+                "ownerName": "GEOSITE"
+            },
+            "rsrcPartitionMmbrsForEndpt": {
+                "name": "rsrcPartitionMmbrsForEndpt",
+                "source": "a8eaaf2d-bf8d-4b1a-b7af-dffd3870e3ab",
+                "uniqueId": "3aa0ee01-d723-4921-9e52-4494f7c6922f.rsrcPartitionMmbrsForEndpt",
+                "capability": "tosca.capabilities.Node",
+                "ownerId": "099bee93-10f5-4ab7-8a4f-cc042079cdc7.a8eaaf2d-bf8d-4b1a-b7af-dffd3870e3ab.geosite",
+                "ownerName": "GEOSITE"
+            },
+            "managedObjects": {
+                "name": "managedObjects",
+                "source": "a8eaaf2d-bf8d-4b1a-b7af-dffd3870e3ab",
+                "uniqueId": "3aa0ee01-d723-4921-9e52-4494f7c6922f.managedObjects",
+                "capability": "tosca.capabilities.Node",
+                "ownerId": "099bee93-10f5-4ab7-8a4f-cc042079cdc7.a8eaaf2d-bf8d-4b1a-b7af-dffd3870e3ab.geosite",
+                "ownerName": "GEOSITE"
+            },
+            "assignedIPAddress": {
+                "name": "assignedIPAddress",
+                "source": "a8eaaf2d-bf8d-4b1a-b7af-dffd3870e3ab",
+                "uniqueId": "3aa0ee01-d723-4921-9e52-4494f7c6922f.assignedIPAddress",
+                "capability": "tosca.capabilities.Node",
+                "ownerId": "099bee93-10f5-4ab7-8a4f-cc042079cdc7.a8eaaf2d-bf8d-4b1a-b7af-dffd3870e3ab.geosite",
+                "ownerName": "GEOSITE"
+            },
+            "vimZones": {
+                "name": "vimZones",
+                "source": "a8eaaf2d-bf8d-4b1a-b7af-dffd3870e3ab",
+                "uniqueId": "80994a4e-db58-426d-ac24-8452562b06ea.vimZones",
+                "capability": "tosca.capabilities.Node",
+                "ownerId": "099bee93-10f5-4ab7-8a4f-cc042079cdc7.a8eaaf2d-bf8d-4b1a-b7af-dffd3870e3ab.geosite",
+                "ownerName": "GEOSITE"
+            },
+            "alerts": {
+                "name": "alerts",
+                "source": "a8eaaf2d-bf8d-4b1a-b7af-dffd3870e3ab",
+                "uniqueId": "3aa0ee01-d723-4921-9e52-4494f7c6922f.alerts",
+                "capability": "tosca.capabilities.Node",
+                "ownerId": "099bee93-10f5-4ab7-8a4f-cc042079cdc7.a8eaaf2d-bf8d-4b1a-b7af-dffd3870e3ab.geosite",
+                "ownerName": "GEOSITE"
+            },
+            "supportedNSSs": {
+                "name": "supportedNSSs",
+                "source": "a8eaaf2d-bf8d-4b1a-b7af-dffd3870e3ab",
+                "uniqueId": "3aa0ee01-d723-4921-9e52-4494f7c6922f.supportedNSSs",
+                "capability": "tosca.capabilities.Node",
+                "ownerId": "099bee93-10f5-4ab7-8a4f-cc042079cdc7.a8eaaf2d-bf8d-4b1a-b7af-dffd3870e3ab.geosite",
+                "ownerName": "GEOSITE"
+            },
+            "serviceMemberships": {
+                "name": "serviceMemberships",
+                "source": "a8eaaf2d-bf8d-4b1a-b7af-dffd3870e3ab",
+                "uniqueId": "3aa0ee01-d723-4921-9e52-4494f7c6922f.serviceMemberships",
+                "capability": "tosca.capabilities.Node",
+                "ownerId": "099bee93-10f5-4ab7-8a4f-cc042079cdc7.a8eaaf2d-bf8d-4b1a-b7af-dffd3870e3ab.geosite",
+                "ownerName": "GEOSITE"
+            },
+            "esdData": {
+                "name": "esdData",
+                "source": "a8eaaf2d-bf8d-4b1a-b7af-dffd3870e3ab",
+                "uniqueId": "3aa0ee01-d723-4921-9e52-4494f7c6922f.esdData",
+                "capability": "tosca.capabilities.Node",
+                "ownerId": "099bee93-10f5-4ab7-8a4f-cc042079cdc7.a8eaaf2d-bf8d-4b1a-b7af-dffd3870e3ab.geosite",
+                "ownerName": "GEOSITE"
+            },
+            "networkSlices": {
+                "name": "networkSlices",
+                "source": "a8eaaf2d-bf8d-4b1a-b7af-dffd3870e3ab",
+                "uniqueId": "3aa0ee01-d723-4921-9e52-4494f7c6922f.networkSlices",
+                "capability": "tosca.capabilities.Node",
+                "ownerId": "099bee93-10f5-4ab7-8a4f-cc042079cdc7.a8eaaf2d-bf8d-4b1a-b7af-dffd3870e3ab.geosite",
+                "ownerName": "GEOSITE"
+            },
+            "supportedWirelessNFConnections": {
+                "name": "supportedWirelessNFConnections",
+                "source": "a8eaaf2d-bf8d-4b1a-b7af-dffd3870e3ab",
+                "uniqueId": "3aa0ee01-d723-4921-9e52-4494f7c6922f.supportedWirelessNFConnections",
+                "capability": "tosca.capabilities.Node",
+                "ownerId": "099bee93-10f5-4ab7-8a4f-cc042079cdc7.a8eaaf2d-bf8d-4b1a-b7af-dffd3870e3ab.geosite",
+                "ownerName": "GEOSITE"
+            },
+            "parentSite": {
+                "name": "parentSite",
+                "source": "a8eaaf2d-bf8d-4b1a-b7af-dffd3870e3ab",
+                "uniqueId": "80994a4e-db58-426d-ac24-8452562b06ea.parentSite",
+                "capability": "tosca.capabilities.Node",
+                "ownerId": "099bee93-10f5-4ab7-8a4f-cc042079cdc7.a8eaaf2d-bf8d-4b1a-b7af-dffd3870e3ab.geosite",
+                "ownerName": "GEOSITE"
+            },
+            "cismClusters": {
+                "name": "cismClusters",
+                "source": "a8eaaf2d-bf8d-4b1a-b7af-dffd3870e3ab",
+                "uniqueId": "80994a4e-db58-426d-ac24-8452562b06ea.cismClusters",
+                "capability": "tosca.capabilities.Node",
+                "ownerId": "099bee93-10f5-4ab7-8a4f-cc042079cdc7.a8eaaf2d-bf8d-4b1a-b7af-dffd3870e3ab.geosite",
+                "ownerName": "GEOSITE"
+            },
+            "virtualNetworkFunctions": {
+                "name": "virtualNetworkFunctions",
+                "source": "a8eaaf2d-bf8d-4b1a-b7af-dffd3870e3ab",
+                "uniqueId": "3aa0ee01-d723-4921-9e52-4494f7c6922f.virtualNetworkFunctions",
+                "capability": "tosca.capabilities.Node",
+                "ownerId": "099bee93-10f5-4ab7-8a4f-cc042079cdc7.a8eaaf2d-bf8d-4b1a-b7af-dffd3870e3ab.geosite",
+                "ownerName": "GEOSITE"
+            }
+        }
+    },
+    "GEOSITE_DECLARE_INPUT_DATA": {
+        "name": {
+            "declare_vfc_input_name": "geosite_name",
+            "uniqueId": "099bee93-10f5-4ab7-8a4f-cc042079cdc7.geosite_name",
+            "instanceUniqueId": "099bee93-10f5-4ab7-8a4f-cc042079cdc7.a8eaaf2d-bf8d-4b1a-b7af-dffd3870e3ab.geosite",
+            "propertyId": "fabb1400-954c-4eea-8a91-3b91e48bb804.name"
+        }
+    },
+    "CERTIFIED_SERVICE_ID": "3ee16dc4-fc71-4f34-a46e-8cf4c85a0e26",
+    "DISTRIBUTED_SERVICE_NAME": "service-EpgService80620221110-csar.csar"
+}

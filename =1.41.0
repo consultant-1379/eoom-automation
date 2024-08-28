@@ -1,0 +1,8 @@
+Collecting Rust
+  Downloading https://files.pythonhosted.org/packages/c3/ff/1ffe5c38505fd5226e344aaf91fd43dc38648ccf79ae7096ea0fa4f7f815/RUST-0.1.1.tar.gz
+Collecting matplotlib (from Rust)
+  Downloading https://files.pythonhosted.org/packages/2a/0d/bebf456dd3b5bb4ecd78cb1e78636f38716384529d083ed78327ba49ec83/matplotlib-3.5.2-cp38-cp38-win_amd64.whl (7.2MB)
+Collecting biopython (from Rust)
+  Downloading https://files.pythonhosted.org/packages/3d/35/1584ea3e2067655d36f2e98b84704dcad2e91a52a7237fa2598c5cd8b485/biopython-1.79-cp38-cp38-win_amd64.whl (2.3MB)
+Collecting pysam (from Rust)
+  Downloading https://files.pythonhosted.org/packages/a0/10/f6d705984838f8620ff597dd99d3904aea7727b4824bee22de8f44b4ebd4/pysam-0.19.1.tar.gz (3.9MB)

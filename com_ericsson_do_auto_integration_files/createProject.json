@@ -1,0 +1,35 @@
+{
+    "name": "",
+    "description": "",
+    "isEnabled": "true",
+    "type": "DEDICATED",
+    "domainName": "",
+    "adminUserCredentials": {
+        "adminUserName": "",
+        "adminPassword": "",
+        "grantedRoles": [
+            {
+                "roleName": ""
+            }
+        ]
+    },
+    "userCredentials": {
+        "userName": "",
+        "userPassword": "",
+        "grantedRoles": [
+            {
+                "roleName": ""
+            }
+        ]
+    },
+    "tenants": [
+        {
+            "tenantName": ""
+        }
+    ],
+    "vimZoneConnections": [
+        {
+            "vimZoneId": ""
+        }
+    ]
+}

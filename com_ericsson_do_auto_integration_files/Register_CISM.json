@@ -1,0 +1,16 @@
+{
+    "tenantName": "ECM",
+    "searchTag": "CISM|kubernetes",
+    "cism": {
+        "name": "kubernetes",
+        "type": "K8S",
+        "cismConfiguration": {
+            "skipCertificateVerification": true,
+            "url": "https://k8s-api.ccd2.athtem.eei.ericsson.se:443",
+            "clientCertificate": "-----BEGIN CERTIFICATE-----\nMIIDFjCCAf6gAwIBAgIIHbEJA6lEcFswDQYJKoZIhvcNAQELBQAwGDEWMBQGA1UE\nAwwNS3ViZXJuZXRlcy1jYTAeFw0xOTA5MTMxNjA1NDFaFw0yMTA3MTUxMTUxMDha\nMDQxFzAVBgNVBAoTDnN5c3RlbTptYXN0ZXJzMRkwFwYDVQQDExBrdWJlcm5ldGVz\nLWFkbWluMIIBIjANBgkqhkiG9w0BAQEFAAOCAQ8AMIIBCgKCAQEAudGVeeJYmL8m\n9sDkndYPngg3vSC0wOW8ayzVYj3tpbTkAFsw/tUf7+dnvmAaWAU+DWCXsbVwRgGS\ns35MztFTOS/sbVY/kiQNGh/mHi5Br26bNedfT2sVuSZF0DIRCeD0AqZf6QV7sQAq\n7P9yAcnNjbvSvPR9LjytURPYvsEIF8VSJfI6xvyjTffC5yYqhdYSGCGXOFveKgsc\nvigpya6KvzCZ/+GRdUZXy1Jnw4BT+ZCuanLEy/hkyQIIUVhzTm+chHchOVBPHp8C\n/ED95U6Jc1E7YD9JMiac5RoJDTHc6Qxi2kAMuwrl7CVTWzW9xUPCFtL9LgIekTDO\nUe12p2KktwIDAQABo0gwRjAOBgNVHQ8BAf8EBAMCBaAwEwYDVR0lBAwwCgYIKwYB\nBQUHAwIwHwYDVR0jBBgwFoAUem28C625sYy8lGD/J/QvGVNX+9UwDQYJKoZIhvcN\nAQELBQADggEBAHSN+GCMEOl8hjBpekaGpZdcgGTBZUM9oLsN4uLoGvBZoIYcw4Bh\nRJHU2xjW8vIh5gN5JiwonK2kifRaUcXmKxANF8nMbJREE4Hbx79N4hWm3zHHUWwc\npzgjtW5Q7CKxUk38Yw/2CidIN4Up2eYp4N3WRItdltFDw9i7UqrZPPzLwr7Cqldz\nSLwji00TgDbdklZXYPu1tkVkVbwcklexvcVFH7VA/bLNfdsEqf+CKS2ZL4Gwtk8j\nFz8ftsWXK/EfX/eIeM1Rqo1kyHLtirf2TGEW5KYZR/eu6RSDXhFf6hyhkNMrTeJV\nsotpKPJDJjLGySw0qCktap4FKKRTiMA/SIQ=\n-----END CERTIFICATE-----\n",
+            "clientCertificateKey": "-----BEGIN RSA PRIVATE KEY-----\nMIIEowIBAAKCAQEAudGVeeJYmL8m9sDkndYPngg3vSC0wOW8ayzVYj3tpbTkAFsw\n/tUf7+dnvmAaWAU+DWCXsbVwRgGSs35MztFTOS/sbVY/kiQNGh/mHi5Br26bNedf\nT2sVuSZF0DIRCeD0AqZf6QV7sQAq7P9yAcnNjbvSvPR9LjytURPYvsEIF8VSJfI6\nxvyjTffC5yYqhdYSGCGXOFveKgscvigpya6KvzCZ/+GRdUZXy1Jnw4BT+ZCuanLE\ny/hkyQIIUVhzTm+chHchOVBPHp8C/ED95U6Jc1E7YD9JMiac5RoJDTHc6Qxi2kAM\nuwrl7CVTWzW9xUPCFtL9LgIekTDOUe12p2KktwIDAQABAoIBAAxO4pzJLl8nwjfz\n/PCrfitUlgSUBwUD8qASvyubuIMSYUvYvn0StuPYKxoEGZqc9khCjqm5v+8TKZl0\nEzhbyyxtjTaM0PcoJioF1ONI4xbwt50xbzG+gRjbfSJWPqSt3tvSE2ZG87N8tFsw\nbGfL6y6pM0NK2oPWhxBoxSGVfai9Tz/ZRE32hyDrQHoyvkeaqTRgKnRmJKDmiHwP\naRXUBJfv3TPgq2ABblEFmkH+bVgmxgqtEEA2QLb2VAaEN1TKVe472ofc3YusOrUv\n0Cg7WdDg+piRteVYp5CRS2+fmJgRZPGzCnc+6bQwO7wRvTnfAElP06Ca5R1uLj4M\nLgjRwjECgYEA7GePPxTY8m1hkOFiaODPajsMhEi0K8Y+vUg8xmEsK/2/BJJptEnc\n089CJvyb8WdWFhMIp0nBMk2OkVFoDEk5Ru/q0GdvlKq9FGl3w5EeSiyaQT9YI0l8\n8bBBgvFB9QDlor82m4nsK14WhR6P3xPXo0/52kkTuLqO+hBghU1FvkkCgYEAyTib\nO+dImjSZpsL+pFCUrEjNqw1XjSzxvSIREC8QWewr/OF5jysCxC3XU/eBDiW2Xf22\nBG3XIpsd5Xbudx6XENf3bH6k5/KgvqnBL/Jw4Nj6lzL9S1pjcAs4LVw3IcddASWY\nBzOD/NWJS9SmvLBY8eFR+Ydty4wDrxcBpQqhSv8CgYEAgFgI0PqEfbkciweR4daL\nROUh+n9uMYXDcgfR1vHShV+RYO4MLTEcjnGrPHdQQlMTzZAv1oKYPLMWf5Zuopzu\nV7DRDqvZTCEV3gsUVjxm8WYdqOa29xFin+RM7MYGRPljsmOVRgQvD6xZFZRuD3I6\nVBOLVhLufg/qp6BUhopZHuECgYAs+jswq6T92w4RSXrTzbM9w1Q9jNDqHIa4aPn5\nbRuxjenTL68VQl7u7PQ5r5QoTmOyJLjfypGRCa0oEmqBM9Q+jpeep7xCoGgv1g/5\noK58g+OXkm0tv7mEXO2krf0gzshKLlYKHgi9phl3WsQeXyiygFPre8sd+WEFbRYQ\nBw1AjwKBgGKEdcXjlSkwwZKT9POsh34gLtXUAmXTvs8vFX4SG8pQ6wxYqUFMUytk\n/Q1QKrk7lnC6P9pSUuBWwRajhj/Zy60sgcpYqamMwspozjMi7Qd/PdzVPn5Yfr+F\nyKH3Qqi+eeBbmdmIEWldc/uc1+kZzsdEyZHspHy1gNEid728o9Pd\n-----END RSA PRIVATE KEY-----\n"
+        },
+        "vnfmId": "87a5a60d-4566-4813-84df-53ebb04df62e",
+        "authType": "NONE"
+    }
+}

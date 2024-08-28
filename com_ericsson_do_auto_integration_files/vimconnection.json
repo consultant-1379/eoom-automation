@@ -1,0 +1,17 @@
+{
+    "vimProjects": [
+        {
+            "isRestricted": true,
+            "vimObjectId": "",
+            "vimZoneId": "",
+            "userCredentials": {
+                "userPassword": "",
+                "vimObjectId": ""
+            },
+            "adminUserCredentials": {
+                "adminPassword": "",
+                "vimObjectId": ""
+            }
+        }
+    ]
+}

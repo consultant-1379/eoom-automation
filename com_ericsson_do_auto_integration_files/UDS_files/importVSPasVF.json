@@ -1,0 +1,91 @@
+{
+    "artifacts": {},
+    "toscaArtifacts": {},
+    "contactId": "cs0008",
+    "categories": [
+        {
+            "name": "Generic",
+            "normalizedName": "generic",
+            "uniqueId": "resourceNewCategory.generic",
+            "icons": null,
+            "subcategories": [
+                {
+                    "name": "Abstract",
+                    "normalizedName": "abstract",
+                    "uniqueId": "resourceNewCategory.generic.abstract",
+                    "icons": [
+                        "objectStorage",
+                        "compute"
+                    ],
+                    "groupings": null,
+                    "ownerId": null,
+                    "empty": false
+                }
+            ],
+            "ownerId": null,
+            "empty": false
+        }
+    ],
+    "description": "VF",
+    "icon": "defaulticon",
+    "componentInstancesProperties": {},
+    "componentInstancesAttributes": {},
+    "name": "ETSITOSCAVSP20230227141344",
+    "tags": "ETSITOSCAVSP20230227141344",
+    "capabilities": {},
+    "requirements": {},
+    "deploymentArtifacts": {},
+    "componentType": "RESOURCE",
+    "vendorName": "Ericsson20230227141341",
+    "vendorRelease": "1.0",
+    "componentInstances": [],
+    "properties": [],
+    "attributes": [],
+    "groups": [],
+    "componentMetadata": {
+        "categorySpecificMetadata": {},
+        "categories": [
+            {
+                "name": "Generic",
+                "displayName": null,
+                "normalizedName": "generic",
+                "models": null,
+                "uniqueId": "resourceNewCategory.generic",
+                "icons": null,
+                "useServiceSubstitutionForNestedServices": false,
+                "metadataKeys": null,
+                "subcategories": [
+                    {
+                        "name": "Network Elements",
+                        "normalizedName": "network elements",
+                        "uniqueId": "resourceNewCategory.generic.network elements",
+                        "icons": [
+                            "network",
+                            "connector"
+                        ],
+                        "metadataKeys": [],
+                        "groupings": null,
+                        "version": null,
+                        "type": null,
+                        "ownerId": null,
+                        "empty": false
+                    }
+                ],
+                "version": null,
+                "type": null,
+                "ownerId": null,
+                "empty": false
+            }
+        ],
+        "tags": [],
+        "icon": "defaulticon",
+        "iconSprite": "sprite-resource-icons",
+        "models": [
+            "ETSI SOL001 v2.5.1"
+        ]
+    },
+    "model": "ETSI SOL001 v2.5.1",
+    "resourceType": "VF",
+    "csarUUID": "d593489778804b009b485761d76680e0",
+    "csarVersion": "1.0"
+}

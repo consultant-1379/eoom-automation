@@ -1,0 +1,84 @@
+{
+    "categorySpecificMetadata": {
+        "vnfManagerId": "",
+        "packageFormat": ""
+    },
+    "artifacts": {},
+    "toscaArtifacts": {},
+    "contactId": "cs0008",
+    "categories": [
+        {
+            "name": "Ericsson Orchestrator VNF Distribution",
+            "displayName": null,
+            "normalizedName": "ericsson orchestrator vnf distribution",
+            "models": [
+                "ETSI SOL001 v2.5.1",
+                "SDC AID"
+            ],
+            "uniqueId": "serviceNewCategory.ericsson orchestrator vnf distribution",
+            "icons": [
+                "network_l_1-3"
+            ],
+            "useServiceSubstitutionForNestedServices": false,
+            "metadataKeys": [
+                {
+                    "name": "vnfManagerId",
+                    "displayName": "VNF Manager ID",
+                    "validValues": null,
+                    "mandatory": false,
+                    "defaultValue": null,
+                    "version": null,
+                    "type": null,
+                    "empty": false,
+                    "ownerId": null
+                },
+                {
+                    "name": "packageFormat",
+                    "displayName": "Package Format",
+                    "validValues": [
+                        "ETSI TOSCA CNF",
+                        "ETSI TOSCA VNF",
+                        "TOSCA CNF",
+                        "TOSCA VNF",
+                        "EXTERNAL_FORMAT"
+                    ],
+                    "mandatory": false,
+                    "defaultValue": null,
+                    "version": null,
+                    "type": null,
+                    "empty": false,
+                    "ownerId": null
+                }
+            ],
+            "notApplicableMetadataKeys": [
+                "Service Type",
+                "Service Role",
+                "Service Function"
+            ],
+            "subcategories": null,
+            "version": null,
+            "type": null,
+            "empty": false,
+            "ownerId": null
+        }
+    ],
+    "description": "test",
+    "icon": "defaulticon",
+    "componentInstancesProperties": {},
+    "componentInstancesAttributes": {},
+    "name": "ETSITOSCAVSP20230503164200",
+    "tags": "ETSITOSCAVSP20230503164200",
+    "capabilities": {},
+    "requirements": {},
+    "deploymentArtifacts": {},
+    "componentType": "SERVICE",
+    "componentInstances": [],
+    "properties": [],
+    "attributes": [],
+    "model": "ETSI SOL001 v2.5.1",
+    "forwardingPaths": {},
+    "ecompGeneratedNaming": true,
+    "serviceApiArtifacts": {},
+    "instantiationType": "A-la-carte",
+    "environmentContext": "General_Revenue-Bearing"
+}

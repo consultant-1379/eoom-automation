@@ -1,0 +1,8 @@
+{
+    "ericssonNfvoData": {
+        "tenantName": "ECM",
+        "isPublic": true,
+        "description": "",
+        "packageName": "NSD-CNF17"
+    }
+}

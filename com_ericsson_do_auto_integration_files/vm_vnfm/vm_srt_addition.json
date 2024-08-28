@@ -1,0 +1,16 @@
+{
+    "srt": {
+        "name": "vm_srt-2023-06-20-12-18-43",
+        "type": "",
+        "isPublic": false,
+        "description": "",
+        "numberOfCpu": 4,
+        "diskSize": 1,
+        "ram": 8192,
+        "receiveTransmitFactor": "",
+        "swapDiskSize": "",
+        "ephemeralDiskSize": ""
+    },
+    "tenantName": "ECM",
+    "subTenantName": ""
+}

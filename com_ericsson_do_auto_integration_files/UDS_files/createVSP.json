@@ -1,0 +1,14 @@
+{
+    "vendorId": "8db477bf06464841a7036e1d0da1aa2a",
+    "name": "ETSITOSCAVSP20230227141344",
+    "category": "resourceNewCategory.generic",
+    "subCategory": "resourceNewCategory.generic.network service",
+    "onboardingMethod": "NetworkPackage",
+    "selectedModelList": [
+        "ETSI SOL001 v2.5.1"
+    ],
+    "description": "ETSI TOSCA VSP",
+    "vendorName": "Ericsson20230227141341",
+    "icon": "icon",
+    "licensingData": {}
+}

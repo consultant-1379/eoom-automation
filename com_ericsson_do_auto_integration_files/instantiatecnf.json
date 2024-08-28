@@ -1,0 +1,52 @@
+{
+    "nsFlavourId": "NsdFlavourId-9876436068",
+    "additionalParamsForNs": {
+        "nsParams": {
+            "targetVdc": "f16d976f-879f-4c95-b21d-e5ddc75b2350"
+        },
+        "vnfParams": [
+            {
+                "vnfNodeTemplateName": "vnf-01",
+                "vnfInstanceName": "NSD_NAME_0051093168-cnf1",
+                "vnfmId": "640d49d2-e74b-4f5d-9e55-a1656c818a59",
+                "vnfInstanceDescription": "ETSI NFV SOL 001 vnfd types definitions version 2.5.1",
+                "cismName": "kubernetes"
+            },
+            {
+                "vnfNodeTemplateName": "vnf-02",
+                "vnfInstanceName": "NSD_NAME_0051093168-cnf2",
+                "vnfmId": "640d49d2-e74b-4f5d-9e55-a1656c818a59",
+                "vnfInstanceDescription": "ETSI NFV SOL 001 vnfd types definitions version 2.5.1",
+                "cismName": "kubernetes"
+            }
+        ]
+    },
+    "additionalParamsForVnf": [
+        {
+            "vnfProfileId": "vnf-01",
+            "additionalParams": {
+                "tags.pm": true,
+                "pm-testapp.ingress.domain": "rontgen010.seli.gic.ericsson.se",
+                "influxdb.ext.apiAccessHostname": "influxdb-service2.rontgen010.seli.gic.ericsson.se",
+                "eric-pm-server.server.persistentVolume.storageClass": "network-block",
+                "namespace": "etsi-tosca-cnf1",
+                "eric-pm-server.server.ingress.enabled": false,
+                "tags.all": false,
+                "eric-adp-gs-testapp.ingress.enabled": false
+            }
+        },
+        {
+            "vnfProfileId": "vnf-02",
+            "additionalParams": {
+                "tags.pm": true,
+                "pm-testapp.ingress.domain": "rontgen010.seli.gic.ericsson.se",
+                "influxdb.ext.apiAccessHostname": "influxdb-service2.rontgen010.seli.gic.ericsson.se",
+                "eric-pm-server.server.persistentVolume.storageClass": "network-block",
+                "namespace": "etsi-tosca-cnf2",
+                "eric-pm-server.server.ingress.enabled": false,
+                "tags.all": false,
+                "eric-adp-gs-testapp.ingress.enabled": false
+            }
+        }
+    ]
+ }

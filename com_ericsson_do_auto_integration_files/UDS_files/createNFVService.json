@@ -1,0 +1,47 @@
+{
+    "categorySpecificMetadata": {},
+    "artifacts": {},
+    "toscaArtifacts": {},
+    "contactId": "cs0008",
+    "categories": [
+        {
+            "name": "ETSI NFV Network Service For ETSI Model",
+            "normalizedName": "etsi nfv network service for etsi model",
+            "uniqueId": "serviceNewCategory.etsi nfv network service for etsi model",
+            "icons": [
+                "etsi_nfv_network_service"
+            ],
+            "useServiceSubstitutionForNestedServices": false,
+            "metadataKeys": [],
+            "subcategories": null,
+            "version": null,
+            "type": null,
+            "ownerId": null,
+            "empty": false,
+            "models": [
+                "ETSI SOL001 v2.5.1"
+            ]
+        }
+    ],
+    "description": "NFV Service",
+    "icon": "defaulticon",
+    "componentInstancesProperties": {},
+    "componentInstancesAttributes": {},
+    "name": "ETSITOSCAVSP20230428135308",
+    "tags": "ETSITOSCAVSP20230428135308",
+    "capabilities": {},
+    "requirements": {},
+    "deploymentArtifacts": {},
+    "componentType": "SERVICE",
+    "componentInstances": [],
+    "properties": [],
+    "attributes": [],
+    "derivedFromGenericType": "tosca.nodes.nfv.NS",
+    "derivedFromGenericVersion": "1.0",
+    "forwardingPaths": {},
+    "ecompGeneratedNaming": true,
+    "serviceApiArtifacts": {},
+    "instantiationType": "A-la-carte",
+    "environmentContext": "General_Revenue-Bearing",
+    "model": "ETSI SOL001 v2.5.1"
+}
